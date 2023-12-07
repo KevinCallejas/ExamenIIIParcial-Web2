@@ -1,0 +1,6 @@
+Jose Prado        0101-1999-01407 git: rcmaku
+Kevin Callejas    0801-2001-09703 git: KevinCallejas
+Estefani López    0824-2002-00105 git: estefanilop
+Kevin Motiño      0801-2002-03139 git: kevinmotino
+David Bustamante  0801-2002-19751 git: bustamantee02
+Diego Reconco     0801-1998-13974 git: diegodr7

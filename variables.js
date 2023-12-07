@@ -11,7 +11,6 @@ const handlerBarsContext = {
     "/contact.html": {
         "title": "Contacts Us"
     }
-    
 }
 
 const destacados = [
@@ -200,7 +199,7 @@ const destacados = [
   };
 
 const pageContext = (page)=>{
-    const context= {...handlerBarsContext[page]}
+    const context= {...handlerBarsContext[page], destacados, masVendido, contactanosMain, servicios, productosm, endocrineSystem,respiratorySystem,cardiovascularSystem,nervousSystem,lymphaticSystem}
     return context;
 }
 export default pageContext;
